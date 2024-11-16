@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=slihatim&label=+Profile+views+😎+&color=eab676)
+![](https://komarev.com/ghpvc/?username=slihatim&label=+Profile+views+😎+&color=eab676&style=for-the-badge)
 
 <!--
 **slihatim/slihatim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
